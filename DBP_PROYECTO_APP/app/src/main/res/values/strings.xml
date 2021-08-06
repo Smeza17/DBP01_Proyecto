@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Gerovitalis</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hola blank fragment</string>
+    <string name="dni_txt">DNI</string>
+    <string name="nombre_txt">Nombre</string>
+    <string name="apellido_txt">Apellido</string>
+    <string name="edad_txt">Edad</string>
+    <string name="habitacion_txt">Habitacion</string>
+    <string name="residencia_txt">Residencia</string>
+    <string name="ver_pacientes_txt">Ver Pacientes</string>
+    <string name="registrar_pacientes_txt">Registrar Paciente</string>
+    <string name="registrar_txt">Registrar</string>
+    <string name="editar_paciente_txt">Editar Paciente</string>
+    <string name="borrar_paciente_txt">Eliminar Paciente</string>
+    <string name="usuario_txt">Usuario</string>
+    <string name="cerrar_sesion_txt">Cerrar Sesion</string>
+    <string name="nombre_completo_txt">Nombre Completo</string>
+    <string name="info_txt">+ Info</string>
+    <string name="contrasena_txt">Contraseña</string>
+    <string name="inciar_sesion_txt">Iniciar Sesion</string>
+    <string name="title_activity_login">Login</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+</resources>
