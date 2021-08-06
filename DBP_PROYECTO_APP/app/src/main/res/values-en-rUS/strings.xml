@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Internet</string>
+    <string name="dni_txt">DNI</string>
+    <string name="nombre_txt">Name</string>
+    <string name="apellido_txt">Last Name</string>
+    <string name="edad_txt">Age</string>
+    <string name="habitacion_txt">Room</string>
+    <string name="residencia_txt">Location</string>
+    <string name="ver_pacientes_txt">LookUp Patients</string>
+    <string name="registrar_pacientes_txt">Register Patient</string>
+    <string name="registrar_txt">Register</string>
+    <string name="editar_paciente_txt">Edit Patient</string>
+    <string name="borrar_paciente_txt">Delete Patient</string>
+    <string name="cerrar_sesion_txt">Log Out</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="nombre_completo_txt">Full Name</string>
+    <string name="usuario_txt">User</string>
+    <string name="info_txt">+ Info</string>
+    <string name="contrasena_txt">Password</string>
+    <string name="iniciar_sesion_txt">Log In</string>
+    <string name="inciar_sesion_txt">Log In</string>
+</resources>
