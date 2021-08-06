@@ -1,7 +1,7 @@
 # DBP_PROYECTO
 
 # **Nombre del Proyecto:**
-Aplicación Web para el registro de ancianos con Covid en el albergue Gerovitalis
+Aplicación Web y Movil para el registro de ancianos con Covid en el albergue Gerovitalis
 
 **Integrantes:**
 - Francisco Magot
@@ -11,13 +11,13 @@ Aplicación Web para el registro de ancianos con Covid en el albergue Gerovitali
 - Elizabeth Huamán
 
 ### **Descripción del Proyecto:**
-La pagina web sirve para para un geriatrioco en el cual se ecuentren pacientes covid. En la pagina es requerido tener un usuario para poder acceder a las funcionalidades de ver y registrar paciente.
+La pagina web y movil sirven para un geriatrioco en el cual se ecuentren pacientes covid. En la pagina es requerido tener un usuario para poder acceder a las funcionalidades de ver y registrar paciente.
 
 **Misión:**
-Queremos ser una pagina web utilizada por los geriatricos para poder tener un mejor control de los pacientes que se encuentran en la residencia.
+Queremos ser una pagina web y appmovil, utilizada por los geriatricos para poder tener un mejor control de los pacientes que se encuentran en la residencia.
 
 **Visión:**
-Ser la pagina web utilizada por diferentes geriatricos y clinicas para poder tener un registro de los pacientes, por parte de los doctores, pero tambien poder estar al tanto de los pacientes por parte de los familiares.
+Ser la pagina web y app movil, utilizada por diferentes geriatricos y clinicas para poder tener un registro de los pacientes, por parte de los doctores, pero tambien poder estar al tanto de los pacientes por parte de los familiares.
 
 Visión:
 
@@ -29,6 +29,7 @@ Visión:
         - Flask-SQLAlchemy
         - Flask-Migrate
         - Flask
+        - OkHttp
     
 
 **Base de Datos:**
